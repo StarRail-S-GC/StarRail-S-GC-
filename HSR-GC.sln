@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HSR-GC", "HSR-GC.vcxproj", "{35E08305-6E14-4A20-9B5A-8AEC0DD760CF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HSR-Launcher", "HSR-Launcher\HSR-Launcher\HSR-Launcher.vcxproj", "{F0D48D34-D50B-40ED-93FD-4DBA0E23C899}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HSR-Launcher", "Injector\HSR-Launcher.vcxproj", "{F0D48D34-D50B-40ED-93FD-4DBA0E23C899}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
