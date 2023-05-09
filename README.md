@@ -1,7 +1,10 @@
 [EN](README_en-US.md) | [简中](README_zh-Hans.md)
 
-# Honkai: Star Rail Simple Game Cheat:
-This repository provides code for a simple cheat for the game Honkai Star Rail. For informational purposes only. Use at your own risk.
+# Thank you very much for Z4ee laying the foundation for us
+
+If you are interested in this project, you can join the discord I created and we will discuss and improve it together
+
+Discord link ：https://discord.gg/hj4A859Sya
 
 # Instruction:
 
@@ -26,6 +29,3 @@ Step 7: Done!
 Open/Close menu on F1
 
 Auto-Dialogue on CAPSLOCK (if not automatically detected)
-
-# 09.05.23:
-project closed due to lack of time

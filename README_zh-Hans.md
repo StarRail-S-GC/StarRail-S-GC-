@@ -1,9 +1,10 @@
 [EN](README_en-US.md) | [简中](README_zh-Hans.md)
 
-# Honkai:星轨简单游戏作弊：
+# 非常感谢Z4ee为我们打下了基础
 
-这个存储库为Honkai Star Rail游戏提供了一个简单的作弊代码。仅供参考。使用时风险自负。
+如果你对这个项目感兴趣，你可以加入我创建的discord频道，我们将一起讨论和改进它
 
+Discord链接：https://discord.gg/hj4A859Sya
 
 
 # 说明：
