@@ -1,3 +1,5 @@
+[EN](README_en-US.md) | [简中](README_zh-Hans.md) | [繁中](README_zh-Hant.md) | [VN](README_vi-vn.md)
+
 # Honkai: Star Rail Simple Game Cheat:
 This repository provides code for a simple cheat for the game Honkai Star Rail. For informational purposes only. Use at your own risk.
 
